@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+tree-sitter
+timeout-decorator
+bitsandbytes
+accelerate
+scikit-learn
+rank-bm25
+fuzzywuzzy
+nltk
+sacrebleu
+deepspeed
+tiktoken
+vllm>=0.3.3
